@@ -1,5 +1,5 @@
 # Machine-learning
-Machine learning projects
+Machine learning projects unspervised and supervised
 
 Image preprocessing - The objective of this case study is to create at Convolutional Neural Network model to predict whether or not a patient has pneumonia or not, based on x-ray images.
 
